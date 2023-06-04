@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interstitial Ads</string>
+    <string name="welcome_message">Welcome, Seen Any Ads ?</string>
+
+    <string name="back">Back</string>
+    <string name="click_next">Click Next For Seeing Ads !!</string>
+    <string name="next_page">Next Page</string>
+</resources>
